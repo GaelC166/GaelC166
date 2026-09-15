@@ -2,7 +2,7 @@
 <h3 align="center">Mathematics Major & CS Minor at TAMIU 
 
 
-- 📫 How to reach me **gaelcantu2004@hotmail.com**
+📫 How to reach me **gaelcantu2004@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
