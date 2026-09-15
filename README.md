@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gael Cantu</h1>
-<h3 align="center">Mathematics Major & CS Minor at TAMIU | Aspiring Data Scientist & Software Engineer</h3>
+<h3 align="center">Mathematics Major & CS Minor at TAMIU 
 
-- 🌱 I’m currently learning **Algorithms, Data Structures, and Applied Machine Learning**
-
-- 💬 Ask me about **Python, Statistical Logic, and Discrete Mathematics**
 
 - 📫 How to reach me **gaelcantu2004@hotmail.com**
 
